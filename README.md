@@ -1,3 +1,3 @@
 # Architecture-labs
 
-coputer architecture course labs with verilog language
+computer architecture course labs with verilog language
